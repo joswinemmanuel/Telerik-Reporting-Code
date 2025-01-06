@@ -1,1 +1,1 @@
-<h1>Sample Reports made using Telerik</h1>
+<h1>Sample Reports made using Telerik Reporting</h1>
